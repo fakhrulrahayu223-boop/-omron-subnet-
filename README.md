@@ -1,6 +1,6 @@
 <div align="center">
 
-# **omron-subnet [τ, β]**
+# **Subnet-2[τ, β]**
 
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg?logo=discord)](https://discord.gg/bittensor)
 
